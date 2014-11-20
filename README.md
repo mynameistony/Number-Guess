@@ -3,7 +3,7 @@
 ***********************
 
 Run `make all` to setup execution,
-then `make run` to begin begin execution.
+then `make run` to begin execution.
 
 ***************
 **Description**
