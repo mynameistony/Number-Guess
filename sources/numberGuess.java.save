@@ -1,0 +1,12 @@
+import java.io.Console;
+
+class numberGuess {
+
+	public static void main(String args[]) {
+		Console console = System.console();
+
+		String guess = console.readLine();
+
+		console.printf();	}
+}
+

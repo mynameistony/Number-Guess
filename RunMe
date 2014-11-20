@@ -1,0 +1,9 @@
+./execs/C
+
+./execs/C++
+
+python ./execs/Python.py
+
+./execs/ShellScript.sh
+
+cd ./execs; java numberGuess; cd ../
