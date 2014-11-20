@@ -3,7 +3,7 @@ all: c cpp java python shell
 clean:
 	rm ./execs/*
 run:
-	sh ./RunAll.sh
+	./RunMe
 
 python:
 	cp ./sources/numberGuess.py ./execs/Python.py
