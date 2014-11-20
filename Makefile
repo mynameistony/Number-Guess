@@ -1,8 +1,7 @@
-all: clean c cpp java python shell 
+all: c cpp java python shell 
 
 clean:
 	rm ./execs/*
-
 run:
 	sh ./RunAll.sh
 

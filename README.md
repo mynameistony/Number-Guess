@@ -2,7 +2,8 @@
 **Tony's Number Guess**
 ***********************
 
-Run `make all` to setup execution,
+Run `make clean` to clean up execution path,
+then `make all` to setup execution path,
 then `make run` to begin execution.
 
 ***************
